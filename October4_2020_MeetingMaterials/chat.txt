@@ -1,0 +1,250 @@
+21:32:07	 From Abraham : :)
+21:33:15	 From phornsri : Hi everyone!
+21:36:24	 From vioreldrumea : 61 people :D wow)
+21:37:10	 From phornsri : @Cihan, you should do Java class too!
+21:37:28	 From Seçkin Fevzi Kara : even english language you're so fast cihan abi :D 
+21:37:33	 From vioreldrumea : x10)
+21:38:10	 From Ramazan : it is good! not slow not too fast. TY
+21:40:24	 From Saban Inci : index
+21:43:48	 From Cristina Tiscenco : Thank you so much!!!
+21:48:49	 From Ziiadin Osmanov : mvn web cite
+21:49:12	 From Ana Burea Khalikov : maven repo
+21:50:44	 From Fatih Silverhill : 3.14 pi
+21:50:56	 From Fatih Silverhill : Digits of pi
+21:51:40	 From yilmaz : is it not eclipse right? which console are you using
+21:51:52	 From Ziiadin Osmanov : INtellij
+21:53:54	 From Cristina Tiscenco : Perfect!!
+21:56:19	 From Dawud Abduweli Uyghurturk : Annotation
+21:56:22	 From Hakki Sabanci : Test n go :D 
+21:57:01	 From Cristina Tiscenco : Is a unit framework inspired by Junit
+21:57:08	 From Zeliha : I think she is asking about which link you chose to copy
+21:58:56	 From Talha Meral : more support for JUnit that's why we are using Junit
+21:59:17	 From Nrsl : JUnit is used in cucumber
+21:59:44	 From Mehmet Gul : JUnit is the first and the oldest framework and testNg is the new one and having more annotations. But you can use both in one project as much as you don’t make conflict.
+21:59:48	 From selenium selen : You can do paralel testing with TestNG but  you can’t with JUnit
+22:00:14	 From leo : you can not be in the 2 different car when you drive from a to B.
+22:00:16	 From Mehmet Gul : You can do in JUnit parallel testing. After version 4.7 and 5 you can do
+22:00:17	 From selenium selen : They ask me in an interview
+22:00:22	 From Serkan : test ng has more annotation
+22:00:25	 From Mehmet Gul : This is wrong information.
+22:00:40	 From selenium selen : You can do paralel testing with Junit 5
+22:03:24	 From Yucel Bark : @Mehmet Gul,
+22:03:48	 From Yucel Bark : @Mhmert Gul, what is wrong information
+22:04:37	 From aigerimibraimova : Thanks so much!
+22:04:42	 From birsen yildirim : How did you create all packages? Can you show again please?
+22:05:14	 From Zeliha : com.cybertek.batch20.tests.Jira_Assignment5
+22:05:41	 From Zeliha : right click on java and create a new package, then type below
+22:05:45	 From Tetiana : use dots to it will creat package in package in package
+22:05:57	 From Zeliha : each dot is one sub package
+22:06:42	 From Rumiya Hasnutdinova : yep, it’s good to know the differences, at least basics, between the versions
+22:07:12	 From Adam S : and this is going to create pre-configured folder structure (PIQ)
+22:09:22	 From Cigdem Ertekin : I am using Java version 12,  so dependencies are still not combined. How can I fix it?
+22:09:46	 From TayfaTeam : User Story – 1. As a user, I should be able to send messages by clicking on Message tab under Active Stream.
+
+AC: 
+1. User should be able to click on upload files icon to upload files and pictures from local disks, download from external drive, select documents from bixtrix24, and create files to upload.
+22:11:12	 From TayfaTeam : login2.nextbasecrm.com
+https://docs.google.com/spreadsheets/d/1jBYMIGUBHgzvWZ16vJA8K5MCtiunFXq9PqBSH132E4U/edit#gid=1003894512
+22:12:33	 From ssssss : what was the function of webdriver factory
+22:14:44	 From Anonim : I'm sorry. I see that you didn't create main method
+22:15:03	 From Anonim : and use the other thing that I don' know
+22:15:09	 From Anonim : Can you please help me understand
+22:15:38	 From Metin Guclu : you don't have to create main method anymore 
+22:16:01	 From Adam S : @BeforeMethod and @Test executes
+22:16:09	 From Yucel Bark : @Mehemnet Guclu , No we are not using main method here
+22:16:12	 From Zeliha : we do not need main method in testing. It gets executes without main method
+22:16:33	 From Zeliha : testng*
+22:16:46	 From ssssss : we are creating test methods,
+22:16:52	 From Ramazan : chrome\
+22:17:13	 From ssssss : normally without calling from somewhere we can not run them
+22:17:56	 From ssssss : but when we put @Test annotation we are making them to run like main method
+22:18:58	 From ssssss : what was the function of webdriver factory
+22:19:00	 From Tahsin Carikci : System.setProperty("webdriver.chrome.driver", "DriversPath”;
+22:19:42	 From Tahsin Carikci : Key , value part is not correct
+22:21:12	 From Rumiya Hasnutdinova : webDriverFactory creates us a new driver.
+22:22:02	 From hakan Hh : Could you send url pls
+22:22:21	 From Kamil : login2.nextbasecrm.com
+22:22:22	 From hakan Hh : no
+22:22:35	 From hakan Hh : yes
+22:22:55	 From Zeliha : path?
+22:23:01	 From Murat Dgrmnci : https
+22:23:11	 From Murat Dgrmnci : https://
+22:23:43	 From Ramazan : it worked
+22:24:40	 From elvira : 7.1.0
+22:24:42	 From Ramazan : 7.1.0 works
+22:24:58	 From Ramazan : august released version
+22:25:48	 From hakan Hh : Could you show again
+22:26:00	 From hakan Hh : Fixed problem
+22:26:47	 From Ramazan : go pom.xml file and change testing dependency to 7.1.0
+22:27:08	 From Ramazan : *testNG
+22:27:14	 From TayfaTeam : @BeforeMethod
+     public void setup(){
+
+       System.setProperty("webDriverManager.chromedriver","chromedriver");
+
+       //WebDriverManager.chromedriver().setup();
+
+         WebDriver driver = new ChromeDriver();
+
+         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+         driver.get("http://login2.nextbasecrm.com");
+
+
+     }
+22:27:14	 From Yucel Bark : If you change the version of the java to 7.1.0 it is working properly
+22:27:51	 From Murat Dgrmnci :  public static void loginNextBase(WebDriver driver){        WebElement userEmail = driver.findElement(By.xpath("//input[@placeholder='Login']"));        userEmail.sendKeys("helpdesk31@cybertekschool.com");        WebElement password = driver.findElement(By.xpath("//input[@placeholder='Password']"));        password.sendKeys("UserUser"+ Keys.ENTER);    }
+22:27:54	 From elvira : no
+22:27:57	 From Kamil : It  just open browser
+22:28:06	 From Murat Dgrmnci : create utilities and add 
+22:30:29	 From Yucel Bark : Why it is giving error when we add “s” at the end of the “http” what does it mean “s” here
+22:30:43	 From Abraham : security
+22:30:52	 From Yucel Bark : Thank you
+22:31:40	 From Kamil : driver.findElement(By.xpath("//input[@type='text']")).sendKeys("helpdesk25@cybertekschool.com");
+        //send password
+       driver.findElement(By.xpath("//input[@type='password']")).sendKeys("UserUser");
+        //click Login
+      driver.findElement(By.xpath("//input[@class='login-btn']")).click();
+22:31:52	 From Kamil : driver.findElement(By.xpath("//input[@type='text']")).sendKeys("helpdesk25@cybertekschool.com");
+        //send password
+       driver.findElement(By.xpath("//input[@type='password']")).sendKeys("UserUser");
+        //click Login
+      driver.findElement(By.xpath("//input[@class='login-btn']")).click();
+22:32:08	 From Murat Dgrmnci : Can we create utilities as well
+22:32:09	 From Murat Dgrmnci : ??
+22:32:14	 From Yucel Bark : helpdesk25@cybertekschool.com
+22:32:26	 From Yucel Bark : UserUser
+22:35:30	 From banuyildirim : Alt+Command+L
+22:35:36	 From banuyildirim : In mac
+22:37:26	 From Mehmet Gul : MAC : command +option + L Windows : ctrl + alt +L Will organize the codes
+22:43:45	 From TayfaTeam : @Test
+    public void AC1(){
+
+
+         driver.findElement(By.xpath("//input[@type='text']")).sendKeys("helpdesk25@cybertekschool.com");
+
+         // send password
+         driver.findElement(By.xpath("//input[@type='password']")).sendKeys("UserUser");
+         //click Login
+         driver.findElement(By.xpath("//input[@class='login-btn']")).click();
+
+     }
+22:43:49	 From Shakhnozai Mirzozoda : yes, it worked
+22:44:36	 From Ziiadin Osmanov : parent for all )
+22:47:50	 From Shakhnozai Mirzozoda : make it more reusable
+22:50:47	 From Zeliha : BeforeMethod and AfterMethod will work for every test~ before and after
+22:51:25	 From Ramazan Susacan : Hi can some body share testable code
+22:51:48	 From Yucel Bark : public class AC1 extends TestBase {
+
+
+
+    @Test
+    public void AC1() {
+        driver.findElement(By.xpath("//input[@type='text']")).sendKeys("helpdesk25@cybertekschool.com");
+        driver.findElement(By.xpath("//input[@type='password']")).sendKeys("UserUser");
+        driver.findElement(By.xpath("//input[@class='login-btn']")).click();
+
+    }
+
+
+
+}
+22:51:52	 From Ramazan Susacan : testbase
+22:52:14	 From Yucel Bark : public abstract class TestBase {
+    protected WebDriver driver;
+    @BeforeMethod
+    public void AC() {
+        WebDriverManager.chromedriver().setup();
+        driver = new ChromeDriver();
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+
+        driver.get("https://login2.nextbasecrm.com");
+
+    }
+
+    @AfterMethod
+    public void teardown() throws InterruptedException {
+        Thread.sleep(3000);
+        driver.close();
+
+
+    }
+}
+22:56:16	 From elvira : You can not create object
+22:58:43	 From sss : Also We created under test folder because we will make testing
+22:59:03	 From sss : Developers are using main part’s java folder
+23:00:21	 From Mehmet Gul : For your information.
+23:00:47	 From Mehmet Gul : You can have more than one properties file and you may keep the under java folder or test folder.
+23:01:55	 From Ziiadin Osmanov : in the middle of somewhere))) - like it))) lol
+23:02:58	 From Mehmet Gul : url
+23:03:00	 From Zeliha : username
+23:03:00	 From Shakhnozai Mirzozoda : username
+23:03:01	 From Ziiadin Osmanov : url
+23:03:06	 From elvira : url
+23:03:07	 From sss : URL
+23:03:19	 From sss : password
+23:03:34	 From Ziiadin Osmanov : make sure no spaces!
+23:05:41	 From Ziiadin Osmanov : or in the middlle of somewhere))) lol
+23:06:05	 From Islem : hardcode
+23:06:16	 From Zeliha : hardcode and not a good practice
+23:06:21	 From Shakhnozai Mirzozoda : haha :)
+23:06:39	 From Adam S : there is even softAssert
+23:06:42	 From Shakhnozai Mirzozoda : how about medium coding, lol
+23:06:48	 From Abraham : Why hardcoding is not a good practice?
+23:07:29	 From Zeliha : because it will be hard to maintain the code, you should change every single related code
+23:07:52	 From Abraham : What does it mean to maintain the code? :)
+23:08:08	 From Ziiadin Osmanov : drag and drop works right? 
+23:08:27	 From Vildan’s iPhone : change data etc
+23:08:42	 From Zeliha : fixing , changing data
+23:09:22	 From Mehmet Gul : If you could create the folder structure of the framework at the beginning  and then creating the java files could be best practice.
+23:09:48	 From sss : What was function of WebDriver Factory?
+23:10:09	 From sss : To chose browser?
+23:11:00	 From Gul : ctrl+shift+plus     ctrl+shift+minus 
+23:13:02	 From sss : What difference is there between driver and webdriver factory classes?
+23:14:50	 From sss : Can we use Driver.getDriver.get() instead?
+23:18:09	 From vahit.peker : Pull data config pro
+23:18:14	 From sss : To read properties , it is one bridge
+23:25:18	 From sss : Min java version ?
+23:25:31	 From sss : For intellij
+23:26:36	 From sss : Min 8?
+23:29:14	 From Abraham : target
+23:29:19	 From Kemal Gurler : <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+23:29:29	 From Abraham : 1.8
+23:30:08	 From sss : Yes we are adding always this one to pom.xml at the beginning
+23:30:15	 From sss : <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+23:30:26	 From sss : Not to have any problem
+23:32:41	 From Abraham : Thank you very much for the presentation and  Thanks to all the contributors. Good night
+23:35:37	 From Ziiadin Osmanov : if flowers will not work we will use rope) 
+23:35:38	 From aysen : Sorry,maybe missed. Where can we rewatch this meeting?
+23:36:17	 From Yucel Bark : The link will be shared once video uploaded
+23:37:17	 From Ziiadin Osmanov : Shift + Alt and arrows
+23:39:21	 From Ziiadin Osmanov : we will have a recap on this! on Tuesday
+23:39:48	 From Ziiadin Osmanov : but still can reach to it
+23:40:21	 From gulaycelik : Will you share this recording?
+23:40:56	 From Ziiadin Osmanov : The link will be shared once video uploaded
+23:41:15	 From gulaycelik : Great, thank you
+23:41:19	 From Yucel Bark : EyvAllah
+23:42:29	 From Ziiadin Osmanov : Java has it own Naming conventions
+23:42:37	 From Ziiadin Osmanov : like CamelCase))) 
+23:42:45	 From Ramazan : ziyaaaaaa
+23:42:49	 From Ramazan : right
+23:43:13	 From Ziiadin Osmanov : Ramazan ziya or Zidane? 
+23:43:31	 From Ramazan : May I use both nicknames ?
+23:43:38	 From Ramazan : if you don't mind
+23:43:56	 From Ziiadin Osmanov : no bro) I don't) use any  of it) both are Good) 
+23:44:13	 From Ramazan : thak you brother
+23:44:50	 From Shakhnozai Mirzozoda : can we have the same key names in 1 config file?
+23:45:12	 From Shakhnozai Mirzozoda : like several usernames
+23:45:53	 From Ziiadin Osmanov : beginning of our own Framework)
+23:46:48	 From Yucel Bark : Your just starting please repeat these steps again and again
+23:47:18	 From sss : If they ask details during interviews?
+23:47:53	 From Yucel Bark : Do not try to memorize it try to understand the logic this is important
+23:49:42	 From Ziiadin Osmanov : If they ask details during interviews - tell them the logic of creation, probably enough! he/she will understand what do you mean
+23:55:21	 From Dawud Abduweli Uyghurturk : Line 16
+23:56:41	 From Ziiadin Osmanov : InshAllah)
+23:56:49	 From sss : Test Passedddd

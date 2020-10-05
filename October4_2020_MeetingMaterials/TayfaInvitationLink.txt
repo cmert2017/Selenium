@@ -1,0 +1,8 @@
+Tayfa invitation link
+Cop the following link and open it in a browser.
+Then it will ask you your credentials.
+Then it will be opened in web.
+Then click the drop down menu which is on the left most part
+Then in the drop down menu choose the last item which is open/use this in slack App
+
+link=https://join.slack.com/t/tayfa12/shared_invite/zt-hkcigv0m-U2ZF9fnRTSwG0Z4_v87hdA
